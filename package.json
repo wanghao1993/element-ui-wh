@@ -1,6 +1,6 @@
 {
-  "name": "element-ui-wh",
-  "version": "1.0.2",
+  "name": "element-ui-isaac",
+  "version": "0.0.2",
   "description": "A Component Library for Vue.js.",
   "main": "lib/element-ui.common.js",
   "files": [
@@ -45,7 +45,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ElemeFE/element.git"
+    "url": "git+ssh://git@github.com:wanghao1993/element-ui-wh.git"
   },
   "homepage": "http://element.eleme.io",
   "keywords": [
@@ -54,9 +54,6 @@
     "components"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ElemeFE/element/issues"
-  },
   "unpkg": "lib/index.js",
   "style": "lib/theme-chalk/index.css",
   "dependencies": {
@@ -150,5 +147,5 @@
     "lib": "lib",
     "test": "test"
   },
-  "author": "wh"
+  "author": "isaac.wang"
 }
