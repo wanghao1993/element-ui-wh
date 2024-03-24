@@ -45,7 +45,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:wanghao1993/element-ui-wh.git"
+    "url": "git+ssh://git@github.com/wanghao1993/element-ui-wh.git"
   },
   "homepage": "http://element.eleme.io",
   "keywords": [
